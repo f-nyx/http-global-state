@@ -8,7 +8,6 @@ let requestId = 0
 class Logger {
     constructor(requestId) {
         this.requestId = requestId
-        this._values = {}
     }
 
     info(message) {
