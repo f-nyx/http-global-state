@@ -1,0 +1,23 @@
+{
+  "name": "http-global-state",
+  "version": "1.0.0",
+  "description": "Example app to show how to handle HTTP global state in NodeJS applications",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/f-nyx/http-global-state.git"
+  },
+  "author": "nyx",
+  "license": "GPL-2.0",
+  "bugs": {
+    "url": "https://github.com/f-nyx/http-global-state/issues"
+  },
+  "homepage": "https://github.com/f-nyx/http-global-state#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
